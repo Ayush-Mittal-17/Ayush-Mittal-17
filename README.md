@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Ayush Mittal
 ## Full-Stack & AI Developer
 
-###I bridge the gap between robust web applications and intelligent machine learning solutions. With a core foundation in the MERN Stack, I specialize in building scalable user interfaces and integrating them with high-performance AI services powered by Python and FastAPI.
+### I bridge the gap between robust web applications and intelligent machine learning solutions. With a core foundation in the MERN Stack, I specialize in building scalable user interfaces and integrating them with high-performance AI services powered by Python and FastAPI.
 
-###🔭 Current Focus: Optimizing LLM workflows and building responsive web apps.
+### 🔭 Current Focus: Optimizing LLM workflows and building responsive web apps.
 
-###🌱 Learning: Advanced prompt engineering and generative AI.
+### 🌱 Learning: Advanced prompt engineering and generative AI.
 
-###💬 Ask me about: React, Node.js, FastAPI, and deploying AI models.
+### 💬 Ask me about: React, Node.js, FastAPI, and deploying AI models.
 
-###⚡ Fun fact: I spend as much time optimizing my API response times as I do my coffee-to-code ratio.
+### ⚡ Fun fact: I spend as much time optimizing my API response times as I do my coffee-to-code ratio.
 
 
 # 🌐 Socials:
