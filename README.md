@@ -1,5 +1,4 @@
 # Hi, I'm Ayush Mittal
-### Full Stack Developer | React.js • Node.js • AI Integrations
 
 
 ## 💫 About Me:
